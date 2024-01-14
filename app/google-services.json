@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "919149128020",
+    "project_id": "sipsync-8979f",
+    "storage_bucket": "sipsync-8979f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919149128020:android:f2d1222d8f3044ebd500c1",
+        "android_client_info": {
+          "package_name": "com.maya98nk.sipsync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8S--XvL4H2fnwLtB4wtU4fu067MgmV6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
